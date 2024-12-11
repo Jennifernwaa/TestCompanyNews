@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TestCompanyNews</string>
+        <string name="title_home">Home</string>
+        <string name="title_dashboard">Dashboard</string>
+        <string name="title_notifications">Notifications</string>
+        <string name="internal">Internal</string>
+        <string name="general">General</string>
+        <string name="hr_update">HR Update</string>
+        <string name="item_text">Item Text</string>
+        <string name="it_support">IT Support</string>
+        <string name="_1_day_ago">1 day ago</string>
+        <string name="system_downtime_scheduled_for_december_9">System Downtime Scheduled for December 9</string>
+    </resources>
